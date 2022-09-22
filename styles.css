@@ -1,0 +1,23 @@
+.image{
+    display: flex;
+    margin-top: 50px;
+}
+
+.formulario {
+    display: flex; 
+    flex-wrap: wrap;
+    flex-direction: column;
+    height: 50%;
+
+
+}
+
+.lista {
+    display: flex;
+}
+
+.box {
+    display: inline;
+    border: solid black; 
+}
+
