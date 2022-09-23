@@ -14,10 +14,21 @@
 
 .lista {
     display: flex;
+    text-align: left;
+}
+
+.lis{
+    display: flex;
+    margin: 0;
+} 
+
+.texto{
+    padding: 0px 10px 0px 10px;
+    margin-left: -35px;
 }
 
 .box {
     display: inline;
-    border: solid black; 
+    margin: 10px;
 }
 
